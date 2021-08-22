@@ -7,6 +7,6 @@ public class AsciiGenerator {
 		}
 		
 		System.out.println("End of program");
-		System.out.println("Relase1");
+		System.out.println("master");
 	}
 }
